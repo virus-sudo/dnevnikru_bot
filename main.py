@@ -1,1 +1,1 @@
-print("Hello, Dnevnik.ru!")
+print("Hello, Dnevnik.ru!!")
