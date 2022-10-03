@@ -1,1 +1,2 @@
-print("Hello, Dnevnik.ru!!!")
+from aiogram import Bot
+
